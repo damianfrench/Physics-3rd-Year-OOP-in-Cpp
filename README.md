@@ -15,3 +15,7 @@ A script that can be used to create particles and measure their four-momentums b
 
 ## Assignment 5 - More Particles and Polymorphism
 This project uses a three-level inheritance hierarchy, as shown in the report. I chose to implement three layers of inheritance in order to better utilise polymorphism, having the neutrinos inherit from a specific neutral lepton class.
+
+
+## Final Project - Particle Detector
+This project utilises a particle inheritance hierarchy along side a detector sub-component one to create a particle detector which can measure and determine particles which are sent through it. Further details can be found in the report.
