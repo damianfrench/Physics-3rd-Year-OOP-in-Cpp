@@ -9,3 +9,6 @@ Building a script to take in data from a file of specific style containing infor
 
 ## Assignment 3 - Nuclear Physics Experiments
 A script that a student can run when performing a nuclear physics experiment. The script takes in a config file layed out in a specific format and parses it for information about both sources and detectors. It then outputs the data for each source, and then passes each source through each detector and outputs the count measured.
+
+## Assignment 4 - Particles and four-momentum
+A script that can be used to create particles and measure their four-momentums before and after interactions. The script initialises the particles in main() and employs "rule of five" for memory efficiency, meaning the code is highly extendable to many particles.
