@@ -12,3 +12,6 @@ A script that a student can run when performing a nuclear physics experiment. Th
 
 ## Assignment 4 - Particles and four-momentum
 A script that can be used to create particles and measure their four-momentums before and after interactions. The script initialises the particles in main() and employs "rule of five" for memory efficiency, meaning the code is highly extendable to many particles.
+
+## Assignment 5 - More Particles and Polymorphism
+This project uses a three-level inheritance hierarchy, as shown in the report. I chose to implement three layers of inheritance in order to better utilise polymorphism, having the neutrinos inherit from a specific neutral lepton class.
